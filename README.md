@@ -2,9 +2,9 @@
 
 Here is a collection of various Computer Science related algorithms for the Go programming language a.k.a. golang.
 
-## Sorting
-Referenced from RosettaCode
+Much of the code is from RosettaCode, and is referenced within the file as required.
 
+## Sorting
 1. BubbleSort
 2. QuickSort
 3. InsertionSort
@@ -14,7 +14,9 @@ Referenced from RosettaCode
 7. ShellSort
 
 ## Compression
-1. LZW
+1. Lempel–Ziv–Welch (LZW)
+2. Burrows–Wheeler Transform (BWT)
+3. Huffman Encodings
 
 ## Trees
 1. B+ Tree
