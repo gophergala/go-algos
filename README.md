@@ -12,7 +12,12 @@ Here is a collection of various Computer Science related algorithms for the Go p
 2. AVL-Trees
 
 ## Artificial Intelligence
+1. A\* Search
 
 ## Search
 1. Page-Rank
+2. Depth-First Search
+3. Breadth-First Search
+
+## Machine Learning
 
