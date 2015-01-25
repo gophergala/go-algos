@@ -2,13 +2,14 @@
 
 Here is a collection of various Computer Science related algorithms for the Go programming language a.k.a. golang.
 
-## Sorting
+## Sorting - Refrenced from RosettaCode
 1. BubbleSort
 2. QuickSort
 3. InsertionSort
 4. MergeSort
-5. HeapSort
+5. CountSort
 6. SelectionSort
+7. ShellSort
 
 ## Compression
 1. LZW
