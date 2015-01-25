@@ -17,8 +17,9 @@ Referenced from RosettaCode
 1. LZW
 
 ## Trees
-1. B+ Trees
-2. AVL-Trees
+1. B+ Tree
+2. AVL-Tree
+3. KD-Tree
 
 ## Artificial Intelligence
 1. A\* Search
