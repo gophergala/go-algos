@@ -1,3 +1,9 @@
+// source: http://rosettacode.org/wiki/K-d_tree#Go
+
+// Implmentation following pseudocode from "An intoductory tutorial on kd-trees"
+// by Andrew W. Moore, Carnegie Mellon University, PDF accessed from
+// http://www.autonlab.org/autonweb/14665
+
 package trees
 
 import (

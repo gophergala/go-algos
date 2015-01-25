@@ -1,3 +1,5 @@
+// source: http://rosettacode.org/wiki/AVL_tree#Go
+
 package trees
 
 // AVL tree adapted from Julienne Walker's presentation at
