@@ -20,15 +20,15 @@ Here is a collection of various Computer Science related algorithms for the Go p
 
 ## Artificial Intelligence
 1. A\* Search
+2. Bayesian Networks
+3. Neural Networks
+4. Decision Tree
 
 ## Search
 1. Page-Rank
 2. Depth-First Search
 3. Breadth-First Search
 4. Binary Search
-
-## Machine Learning
-
 
 ## Concurrency Locks
 1. Barrier
