@@ -3,12 +3,12 @@
 Here is a collection of various Computer Science related algorithms for the Go programming language a.k.a. golang.
 
 ## Sorting
-BubbleSort
-QuickSort
-InsertionSort
-MergeSort
-HeapSort
-SelectionSort
+1. BubbleSort
+2. QuickSort
+3. InsertionSort
+4. MergeSort
+5. HeapSort
+6. SelectionSort
 
 ## Compression
 1. LZW
