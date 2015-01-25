@@ -12,6 +12,7 @@ Much of the code is from RosettaCode, and is referenced within the file as requi
 5. CountSort
 6. SelectionSort
 7. ShellSort
+8. HeapSort
 
 ## Compression
 1. Lempel–Ziv–Welch (LZW)
