@@ -18,6 +18,13 @@ Here is a collection of various Computer Science related algorithms for the Go p
 1. Page-Rank
 2. Depth-First Search
 3. Breadth-First Search
+4. Binary Search
 
 ## Machine Learning
 
+
+## Concurrency Locks
+1. Barrier
+2. Mutex Lock
+3. Semaphore
+4. Condtion Variable
