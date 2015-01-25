@@ -34,3 +34,4 @@ Here is a collection of various Computer Science related algorithms for the Go p
 2. Mutex Lock
 3. Semaphore
 4. Condtion Variable
+5. Spin Lock
