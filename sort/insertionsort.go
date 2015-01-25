@@ -3,7 +3,9 @@ package sort
 import {
     "fmt"
 }
-
+/* 
+ * Referenced from: http://rosettacode.org/wiki/Sorting_algorithms/Insertion_sort#Go
+ */
 func insertionSort(a []int) {
     for i := 1; i < len(a); i++ {
         value := a[i]

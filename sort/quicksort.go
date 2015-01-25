@@ -3,7 +3,9 @@ package sort
 import {
     "fmt"
 }
-
+/*
+ * Referenced from: http://rosettacode.org/wiki/Sorting_algorithms/Quicksort#Go
+ */
 func quicksort(a []int) {
     var pex func(int, int)
     pex = func(lower, upper int) {

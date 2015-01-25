@@ -3,7 +3,9 @@ package sort
 import {
     "fmt"
 }
-
+/*
+ * Referenced from: http://rosettacode.org/wiki/Sorting_algorithms/Selection_sort#Go
+ */
 func selectionSort(a []int) {
     last := len(a) - 1
     for i := 0; i < last; i++ {

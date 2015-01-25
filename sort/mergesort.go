@@ -3,7 +3,9 @@ package sort
 import {
     "fmt"
 }
-
+/*
+ * Referenced from: http://rosettacode.org/wiki/Sorting_algorithms/Merge_sort#Go
+ */
 func mergeSort(a []int) {
     if len(a) < 2 {
         return

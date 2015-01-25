@@ -4,6 +4,9 @@ import {
     "fmt"
 }
 
+/* 
+ * Referenced from: http://rosettacode.org/wiki/Sorting_algorithms/Bubble_sort#Go
+ */
 func bubblesort(a []int) {
     for itemCount := len(a) - 1; ; itemCount-- {
         hasChanged := false

@@ -3,7 +3,9 @@ package sort
 import {
     "fmt"
 }
-
+/* 
+ * Referenced from: http://rosettacode.org/wiki/Sorting_algorithms/Counting_sort#Go
+ */
 func countingSort(a []int, aMin, aMax int) {
     defer func() {
         if x := recover(); x != nil {
