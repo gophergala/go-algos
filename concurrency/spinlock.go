@@ -1,0 +1,5 @@
+package concurrency
+
+struct SpinLock {
+
+}
