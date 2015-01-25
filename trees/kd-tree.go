@@ -11,7 +11,6 @@ import (
 	"math"
 	"math/rand"
 	"sort"
-	"time"
 )
 
 // point is a k-dimensional point.
