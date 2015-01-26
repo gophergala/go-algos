@@ -26,6 +26,7 @@ func P() {
 	while counter == 0 {
 		runtime.Gosched() // yield to other routines
 	}
+	counter--
 
 	lock.release()
 }
