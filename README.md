@@ -1,6 +1,6 @@
 #Google Go Programming Language Algorithms
 
-![alt text](https://golang.org/doc/gopher/appenginegophercolor.jpg "golang Gopher")
+![alt text](https://blog.golang.org/gopher/gopher.png "golang Gopher")
 
 Here is a collection of various Computer Science related algorithms for the Go programming language a.k.a. golang.
 
