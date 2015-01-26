@@ -9,6 +9,7 @@ import (
 	"math/rand"
 	"runtime"
 	"testing"
+    "github.com/gophergala/go-algos/search"
 )
 
 func init() {
