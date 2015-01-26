@@ -1,8 +1,14 @@
 #Google Go Programming Language Algorithms
 
+![alt text](https://golang.org/doc/gopher/appenginegophercolor.jpg "golang Gopher")
+
 Here is a collection of various Computer Science related algorithms for the Go programming language a.k.a. golang.
 
-Much of the code is from RosettaCode, and is referenced within the file as required.
+Much of the code is from RosettaCode and standard lib, and is referenced within the file as required.
+
+Examples are available inside the [examples folder](https://github.com/gophergala/go-algos/tree/master/examples)
+
+
 
 ## Sorting
 1. BubbleSort
@@ -37,8 +43,8 @@ Much of the code is from RosettaCode, and is referenced within the file as requi
 4. Binary Search
 
 ## Concurrency Locks
-1. Barrier
+1. WaitGroup (Barrier)
 2. Mutex Lock
 3. Semaphore
-4. Condtion Variable
+4. Condition Variable
 5. Spin Lock
