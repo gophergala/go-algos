@@ -9,12 +9,18 @@ Much of the code is from RosettaCode and standard lib, and is referenced within 
 Examples are available inside the [examples folder](https://github.com/gophergala/go-algos/tree/master/examples)
 
 ## Table of Contents
-1. [Sorting](https://github.com/gophergala/go-algos#sorting)
-2. [Compression](https://github.com/gophergala/go-algos#compression)
-3. [Trees](https://github.com/gophergala/go-algos#trees)
-4. [Artificial Intelligence](https://github.com/gophergala/go-algos#artificial-intelligence)
-5. [Search](https://github.com/gophergala/go-algos#search)
-6. [Concurrency](https://github.com/gophergala/go-algos#concurrency)
+[Sorting](https://github.com/gophergala/go-algos#sorting)
+
+[Compression](https://github.com/gophergala/go-algos#compression)
+
+[Trees](https://github.com/gophergala/go-algos#trees)
+
+[Artificial Intelligence](https://github.com/gophergala/go-algos#artificial-intelligence)
+
+[Search](https://github.com/gophergala/go-algos#search)
+
+[Concurrency](https://github.com/gophergala/go-algos#concurrency)
+
 
 ## Sorting
 1. BubbleSort
