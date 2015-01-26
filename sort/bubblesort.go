@@ -16,7 +16,7 @@ func bubblesort(a []int) {
                 hasChanged = true
             }
         }
-        if hasChanged == false {
+        if !hasChanged {
             break
         }
     }
